@@ -1,6 +1,6 @@
 # Next.js 13 + React Server Components
 
-Try the demo live here: [[**next-rsc-hn.vercel.app**](https://next-rsc-hn.vercel.app).](https://rsc-poke-api-benchmark.fly.dev/)
+Try the demo live here: [[**[next-rsc-hn.vercel.app](https://rsc-poke-api-benchmark.fly.dev/)**](https://next-rsc-hn.vercel.app).](https://rsc-poke-api-benchmark.fly.dev/)
 
 ## Introduction
 
